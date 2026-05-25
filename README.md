@@ -7,7 +7,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red?style=flat-square&logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**GitHub Repo:** [Add your GitHub repo link here]
+**GitHub Repo:** [https://github.com/ameybonde/Customer-Churn-Prediction/tree/main]
 
 ---
 
