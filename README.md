@@ -176,9 +176,8 @@ streamlit run app.py
 > Add a screenshot or demo GIF of the running app here.
 
 ```
-<img width="727" height="1605" alt="Screenshot 2026-05-25 164602" src="https://github.com/user-attachments/assets/ce1c329b-3c97-44a1-89f3-6bd9e59498ff" />
-<img width="690" height="1613" alt="Screenshot 2026-05-25 164445" src="https://github.com/user-attachments/assets/87aca42c-91d8-4a0b-808d-10b11fddf126" />
-
+<img width="690" height="1613" alt="Screenshot 2026-05-25 164445" src="https://github.com/user-attachments/assets/1a9bea39-7e75-4cf3-a7e5-88c72ad9deff" />
+<img width="727" height="1605" alt="Screenshot 2026-05-25 164602" src="https://github.com/user-attachments/assets/bc0d7770-4b0a-49eb-9352-816451992ef9" />
 
 ```
 
