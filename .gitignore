@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+
+# Environment files
+.env
+
+# ML models
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Datasets
+*.csv
+data/
+datasets/
+
+# Jupyter
+.ipynb_checkpoints/
