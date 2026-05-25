@@ -7,7 +7,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red?style=flat-square&logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**GitHub Repo:** [https://github.com/ameybonde/Customer-Churn-Prediction/tree/main]
+**GitHub Repo:** [https://github.com/ameybonde/Customer-Churn-Prediction]
 
 ---
 
@@ -40,7 +40,7 @@ This project predicts customer churn for a telecom company using structured cust
 | Tuning | Scikit-learn `RandomizedSearchCV` |
 | Model Persistence | Pickle |
 | Frontend | Streamlit |
-| Dataset | IBM Telco Customer Churn (Kaggle) |
+| Dataset | IBM Sample Data Sets (Kaggle) |
 
 ---
 
@@ -68,7 +68,7 @@ customer-churn-prediction/
 
 Kaggle Dataset Link: [https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-The IBM Telco Customer Churn dataset contains records for **7,043 customers** with **21 columns** covering demographics, account information, and subscribed services. The target variable is `Churn` — whether the customer left within the last month.
+The IBM Sample Data Sets (Kaggle) Telco Customer Churn dataset contains records for **7,043 customers** with **21 columns** covering demographics, account information, and subscribed services. The target variable is `Churn` — whether the customer left within the last month.
 
 | Feature Category | Columns |
 |---|---|
@@ -176,7 +176,10 @@ streamlit run app.py
 > Add a screenshot or demo GIF of the running app here.
 
 ```
-![App Screenshot](screenshots/demo.png)
+<img width="727" height="1605" alt="Screenshot 2026-05-25 164602" src="https://github.com/user-attachments/assets/ce1c329b-3c97-44a1-89f3-6bd9e59498ff" />
+<img width="690" height="1613" alt="Screenshot 2026-05-25 164445" src="https://github.com/user-attachments/assets/87aca42c-91d8-4a0b-808d-10b11fddf126" />
+
+
 ```
 
 ---
@@ -194,16 +197,10 @@ streamlit run app.py
 
 ## 👤 Author
 
-**[Amey Bonde]**
+**Amey Bonde**
 
 - GitHub: [@ameybonde](https://github.com/ameybonde)
 - LinkedIn: [Amey Bonde](https://www.linkedin.com/in/amey-bonde-72a8b23b2/)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
